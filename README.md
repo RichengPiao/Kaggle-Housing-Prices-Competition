@@ -3,7 +3,7 @@
 Machine Learning from Disaster - Predict survival on the Titanic
 
 **Goal:** \
--Predict the sales price for each house.\
+-Predict the sales price for each house.
 
 **Metric:** \
 -Root-Mean-Squared-Error (RMSE) \
