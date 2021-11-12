@@ -5,4 +5,7 @@ Link: https://www.kaggle.com/c/home-data-for-ml-course/overview
 -Predict the sales price for each house.
 
 **Rank:** \
+**Submission V1:** \
 ![alt text](https://github.com/RichengPiao/Kaggle-Housing-Prices-Competition/blob/main/score_house_price.png)
+**Submission V2:** \
+![alt text](https://github.com/RichengPiao/Kaggle-Housing-Prices-Competition/blob/main/score_house_price_v2.png)
